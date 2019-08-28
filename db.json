@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "usrn": "qwe",
+      "email": "qwe@qwe",
+      "pass": "1",
+      "id": 1
+    }
+  ],
+  "saves": [
+    {
+      "usrn": "qwe",
+      "id": 1
+    }
+  ]
+}
