@@ -10,8 +10,8 @@
 /* General sizing */
 ul.dropdown-lr {
   width: 300px;
+  min-width: 210px;
 }
-
 /* mobile fix */
 @media (max-width: 768px) {
 	.dropdown-lr h3 {
