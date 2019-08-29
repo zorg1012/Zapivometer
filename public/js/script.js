@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', async () => {
   const table = create('table');
   table.classList.add('table');
   const thead = create('thead');
-  const headerRow = ['amount','time','buhl','alc' , 'temp','waterNeeded'];
+  const headerRow = ['amount','time','alc volume','alc %', 'temperature','waterNeeded'];
   const trHeader = create('tr');
   headerRow.forEach((val) => {
     const el = create('th');
